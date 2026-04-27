@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: #111;
+    color: white;
+    font-family: Arial;
+}
+
+canvas {
+    background: #222;
+    margin-top: 20px;
+    border: 2px solid white;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    background: #00aaff;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #0088cc;
+}
